@@ -1,0 +1,16 @@
+•	Intermediate programmeerervaring (om niet te lang stil te staan bij de basis)
+•	Laptop met daar op geïnstalleerd:
+o	Git (bij voorkeur met gitbash)
+o	Golang 1.6+ installed (zie https://golang.org/doc/install)
+Optional: IDE met code-completion. (Intellij + Go plugin works best)
+
+
+https://github.com/toefel18/golangworkshop
+https://github.com/a8m/go-lang-cheat-sheet/blob/master/golang_refcard.pdf
+
+go get github.com/toefel18/golangworkshop
+
+dev@dev-box:/home/dev/go/GoWorkshop/src/github.com/toefel18/golangworkshop/01-print-your-name$ go run main.go
+Hello Carlo
+
+https://docs.google.com/presentation/d/1WDDwAzlpknC3OQrm-7H89Ni2YU-FawQ4vN-56OhEcMg/edit#slide=id.p
